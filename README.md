@@ -15,3 +15,5 @@ cobra-cliをインストールして、initコマンドを叩くと、cobra最�
 $ go install github.com/spf13/cobra-cli@latest
 $ cobra-cli init
 ```
+
+## コマンド実装
