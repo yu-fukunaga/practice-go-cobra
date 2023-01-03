@@ -10,7 +10,10 @@ $ make setup
 ```
 
 ## おまけ
-以下コマンドを叩くと、cobra最小構成を生成できる
+cobra-cliをインストールして、initコマンドを叩くと、cobra最小構成を生成できる
 ```
-cobra-cli init
+$ go install github.com/spf13/cobra-cli@latest
+$ cobra-cli init
 ```
+
+## コマンド実装
